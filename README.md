@@ -135,9 +135,7 @@ uv add openpyxl
 MIT License
 
 ## 👨‍💻 Автор
-Денис Куликов
-
-📬 GitHub: @denisalkulikov
+Денис Куликов 📬 GitHub: @denisalkulikov
 
 ## 🤝 Вклад в развитие
 PR и issues приветствуются!
